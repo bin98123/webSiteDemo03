@@ -49,7 +49,7 @@ img {
 }
 /*----------------------------------------header-styles---------------------------------------*/
 #header {
-	background-color: #eeebec;
+	background-color: #edeeeb;
 	margin: 0;
 	padding: 0;
 	position: relative;
@@ -91,7 +91,7 @@ img {
 	width: auto;
 }
 #header div ul li a {
-	color: #72db91;
+	color: #573b8a;
 	font-family: lato-regular-webfont;
 	font-size: 15px;
 	font-weight: normal;
@@ -177,7 +177,7 @@ img {
 }
 #body.home div.header div a {
 	background: url(../images/icons.png) no-repeat 0 -128px;
-	color: #FFFFFF;
+	color: #f0ed3f;
 	display: block;
 	font-family: quicksand-bold-webfont;
 	font-size: 24px;
@@ -198,6 +198,7 @@ img {
 	background-color: #eae7e8;
 	margin: 0;
 	max-width: none;
+
 	padding: 0;
 	width: 100%;
 }
@@ -223,7 +224,7 @@ img {
 	width: auto;
 }
 #body.home div.body div div h1 {
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: lato-bold-webfont;
 	font-size: 18px;
@@ -249,7 +250,7 @@ img {
 	width: 560px;
 }
 #body.home div.body div div p {
-	color: #72db91;
+		color: #573b8a;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
@@ -261,7 +262,7 @@ img {
 	width: 560px;
 }
 #body.home div.body div div p a {
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
@@ -425,7 +426,7 @@ img {
 	text-transform: uppercase;
 }
 #body div.footer div p, #body div.footer div span {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -440,7 +441,7 @@ img {
 	padding: 0;
 }
 #body div.footer div p a {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -485,7 +486,7 @@ img {
 	text-transform: capitalize;
 }
 #body div ul li p {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -496,7 +497,7 @@ img {
 	width: 190px;
 }
 #body div ul li p a {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -589,7 +590,7 @@ img {
 	text-transform: uppercase;
 }
 #body div.blog .featured ul li div span {
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 12px;
@@ -601,7 +602,7 @@ img {
 	text-transform: none;
 }
 #body div.blog .featured ul li div p {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -612,7 +613,7 @@ img {
 	width: 100%;
 }
 #body div.blog .featured ul li div p a {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -623,7 +624,7 @@ img {
 }
 #body div.blog .featured ul li div a.more {
 	border: 2px solid #cbb5bc;
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: lato-bold-webfont;
 	font-size: 16px;
@@ -645,8 +646,8 @@ img {
 	width: 160px;
 }
 #body div.blog .featured a.load {
-	border: 2px solid #72db91;
-	color: #72db91;
+	border: 2px solid #573b8a;
+	color: #573b8a;
 	display: block;
 	font-family: lato-bold-webfont;
 	font-size: 16px;
@@ -710,7 +711,7 @@ img {
 	text-transform: uppercase;
 }
 #body div.blog .sidebar span, #body div.singlepost .sidebar span {
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 12px;
@@ -722,7 +723,7 @@ img {
 	text-transform: none;
 }
 #body div.blog .sidebar p, #body div.singlepost .sidebar p {
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
@@ -735,7 +736,7 @@ img {
 	width: 200px;
 }
 #body div.blog .sidebar p a, #body div.singlepost .sidebar p a {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -746,7 +747,7 @@ img {
 }
 #body div.blog .sidebar a.more, #body div.singlepost .sidebar a.more {
 	border: 2px solid #d3c2c7;
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: lato-bold-webfont;
 	font-size: 16px;
@@ -785,7 +786,7 @@ img {
 	text-transform: uppercase;
 }
 #body div.singlepost .featured span {
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: Arial;
 	font-size: 12px;
@@ -797,7 +798,7 @@ img {
 	text-transform: none;
 }
 #body div.singlepost .featured p {
-	color: #72db91;
+	color: #573b8a;
 	font-family: Arial;
 	font-size: 14px;
 	font-weight: normal;
@@ -807,7 +808,7 @@ img {
 	text-align: left;
 }
 #body div.singlepost .featured p a {
-	color: #72db91;
+	color: #573b8a;
 	font-family: Arial;
 	font-size: 14px;
 	font-weight: normal;
@@ -818,7 +819,7 @@ img {
 }
 #body div.singlepost .featured a.load {
 	border: 2px solid #CBB5BC;
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: lato-bold-webfont;
 	font-size: 16px;
@@ -881,7 +882,7 @@ img {
 	width: 510px;
 }
 #body.contact div.body div div p {
-	color: #72db91;
+	color: #573b8a;
 	float: left;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
@@ -893,7 +894,7 @@ img {
 	width: 510px;
 }
 #body.contact div.body div div p a {
-	color: #72db91;
+	color: #573b8a;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
 	font-weight: normal;
@@ -931,7 +932,7 @@ img {
 #body div.footer .contact form input {
 	background: none;
 	border: 1px solid #B6ADB0;
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: lato-regular-webfont;
 	font-size: 14px;
@@ -946,7 +947,7 @@ img {
 #body div.footer .contact form textarea {
 	background: none;
 	border: 1px solid #B6ADB0;
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: lato-regular-webfont;
 	font-size: 14px;
@@ -963,7 +964,7 @@ img {
 #body div.footer .contact form input#submit {
 	background: none;
 	border: 2px solid #c5abb4;
-	color: #72db91;
+	color: #573b8a;
 	cursor: pointer;
 	display: block;
 	font-family: lato-bold-webfont;
@@ -1005,7 +1006,7 @@ img {
 	width: 202px;
 }
 #body div.footer .section p {
-	color: #72db91;
+	color: #573b8a;
 	display: block;
 	font-family: roboto-regular-webfont;
 	font-size: 14px;
